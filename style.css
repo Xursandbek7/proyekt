@@ -1,0 +1,27 @@
+img{
+    width: 1350px;
+    height: 600px;
+   
+}
+span{
+    font-family:arial black;
+}
+h2{
+    color: rgb(246, 9, 199);
+}
+#mn{
+    background-color: rgb(237, 202, 255);
+    position: relative;
+    left: 15px;
+}
+.man{
+    color: chocolate;
+}
+.nm{
+    color: chocolate;
+}
+div{
+  position: relative;
+  left: 90px;
+  top: 20px;
+}
